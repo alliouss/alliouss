@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alison Phiri 👋
 
-<!--
-**alliouss/alliouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based in Poland, building AI-powered web applications that turn practical ideas into useful products.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **STRYVR** — an AI-assisted fitness and performance platform.
+- **FocusFlow** — a productivity application designed to support focused work.
+- **StockBalance Pro** — an inventory and stock-management application.
+- **CareerFlow AI** — an AI-assisted career development application.
+
+## Current focus
+
+- JavaScript and modern web application development
+- AI integrations and product-focused engineering
+- Responsive, accessible user experiences
+- Turning early concepts into working applications
+
+## Featured public work
+
+- [STRYVR Public Roadmap](https://github.com/alliouss/stryvr-public-roadmap) — product direction and planned capabilities for STRYVR.
+
+## Let's connect
+
+I'm open to software development opportunities, product collaborations, and conversations with teams building thoughtful technology.
+
